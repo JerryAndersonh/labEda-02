@@ -1,4 +1,5 @@
-# Ejercicios Recursivos en Java
+# lAB 02 - Ejercicios Recursivos en Java
+### Nombre: Jerry Anderson Huaynacho Mango
 
 Este repositorio contiene siete ejercicios resueltos en Java que utilizan el concepto de **recursividad** para resolver distintos patrones de impresión y manipulación de arreglos. A continuación se describe brevemente cada uno:
 
